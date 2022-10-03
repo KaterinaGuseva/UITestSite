@@ -1,0 +1,8 @@
+{
+  "default_url": "https://userinyerface.com/",
+  "email": "ivanov",
+  "domain": "mail",
+  "choose_domain": ".com",
+  "upload_photo_name": "src\\test\\resources\\khomyak.jpg",
+  "expected_time_for_timer": "00:00"
+}
